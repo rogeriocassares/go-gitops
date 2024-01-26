@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: rogeriocassares/go-gitops
-  newTag: newtag
+  newTag: 56d109444477838df53d63cd244cab2b0f6b8f39
